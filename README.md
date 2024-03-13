@@ -1,1 +1,2 @@
-# Sentiment_Analysis_Using_BERT
+Sentiment Analysis Using BERT
+Sentiment analysis is the automated process of determining and categorizing sentiments expressed in textual data. It has witnessed significant advancements with the advent of transformer-based models. Among these models, BERT (Bidi- rectional Encoder Representations from Transformers) has emerged as a powerful tool for natural language understanding tasks, demonstrating exceptional performance across various domains. In this project, we present an exploration into the application of the BERT model, specifically the ‘BertForSequenceClassification‘ architecture, for sentiment analysis on the Yelp Review dataset.
